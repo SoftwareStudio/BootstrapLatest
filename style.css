@@ -3,35 +3,4 @@
                 font-family: 'Fira Sans', sans-serif;
         }
         
-        h1 {
-            text-align: center;
-        }
-        .jumbotron{
-                background-color:#000000;
-                margin-top:30px;
-        }
-        .CT{
-                text-align:center;
-        }
-        .M{
-                margin-left:100px;
-        }
-        .footer{
-                background-color:#000000;
-                color:#ffffff;
-                padding:20px 100px 20px 100px;
-        }
-        .YN{
-                color:#ffffff;
-        }
-        .NT{
-                color:#F0B900;
-        }
-        .PO{
-               color:#ffffff;
-        }
-        .PL{
-                 color:#ffffff;
-                  text-align:right;
-        }
-       
+        
