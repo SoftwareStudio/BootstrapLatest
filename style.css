@@ -6,7 +6,10 @@
                 margin-top:30px;
                 font-family:"Helvetica-Neue";
         }
-        CT{
+        .CT{
                 text-align:center;
+        }
+        .M{
+                margin-left:100px;
         }
        
