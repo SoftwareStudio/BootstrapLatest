@@ -11,4 +11,6 @@
          .whitetext{
                 color:#ffffff;
         }
-        .centertext
+        .centertext{
+                text-align:center;
+        }
