@@ -25,6 +25,7 @@ h1 {
 }
 .blackdrop {
     border-radius: 0px 0px 7px 7px;
+    width: 303px;
 }
 .quote {
     font-family: 'Pacifico', cursive;
@@ -33,9 +34,6 @@ h1 {
 }
 .bold {
     font-weight: bold;
-}
-.margin {
-    margin-top: 50px;
 }
 .blackback {
     background-color: #1d1d1b;
