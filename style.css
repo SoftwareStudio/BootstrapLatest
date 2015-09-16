@@ -29,6 +29,7 @@ h1 {
 .quote {
     font-family: 'Pacifico', cursive;
     font-size: 27px;
+    text-align: center;
 }
 .bold {
     font-weight: bold;
