@@ -4,11 +4,32 @@ body {
 h1 {
     text-align: center;
 }
-.combroidery {
-    width: 16.2%;
-    height: 8.4%;
-    top: 31px;
-    left: 201px;
+.image {
+    margin-top: 25px;
+    Margin-bottom: 10px;
+}
+.motto {
+    margin-top: 60px;
+    margin-left: -70px;
+    font-size: 22px;
+    text-align:center;
+    font-weight:bold;
+}
+.number {
+    margin-top: 50px;
+    margin-left: -10px;
+    font-size: 34px;
+    text-align:center;
+    font-weight:bold;
+}
+.blackdrop {
+    border-radius: 0px 0px 7px 7px;
+}
+.bold {
+    font-weight: bold;
+}
+.margin {
+    margin-top: 50px;
 }
 .blackback {
     background-color: #1d1d1b;
@@ -21,37 +42,4 @@ h1 {
 }
 .orange {
     color: #f2ba00;
-}
-.complete {
-    width: 13.2%;
-    height: 3.7%;
-    top: 31px;
-    left: 202px;
-}
-.embroidery {
-    width: 13.4%;
-    height: 4.9%;
-    top: 71px;
-    left: 201px;
-}
-.motto {
-    width: 26%;
-    height: 2.1%;
-    top: 65px;
-    left: 474px;
-}
-.number {
-    width: 21.7%;
-    height: 2.7%;
-    top: 54px;
-    left: 884px;
-}
-.blackdrop {
-    border-radius: 0px 0px 7px 7px;
-}
-.bold {
-    font-weight: bold;
-}
-.margin {
-    margin-top: 50px;
 }
