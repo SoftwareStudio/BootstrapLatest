@@ -26,6 +26,10 @@ h1 {
 .blackdrop {
     border-radius: 0px 0px 7px 7px;
 }
+.quote {
+    font-family: 'Pacifico', cursive;
+    font-size: 27px;
+}
 .bold {
     font-weight: bold;
 }
