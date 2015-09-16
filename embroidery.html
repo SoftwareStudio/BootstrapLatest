@@ -18,7 +18,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-2">
-                        <center><img src="https://drive.google.com/uc?export=view&id=0B_gX9KIWpKAyN1dyUnNCT3dNazg" alt="logo" class="image img-responsive"></img></center>
+                        <center>
+                            <img src="https://drive.google.com/uc?export=view&id=0B_gX9KIWpKAyN1dyUnNCT3dNazg" alt="logo" class="image img-responsive"></img>
+                        </center>
                     </div>
                     <div class="col-md-6">
                         <div class="orange motto text-center">Let us give you a professional look</div>
@@ -46,19 +48,29 @@
                 <div class="col-md-4 blackback blackdrop">
                     <div class="orange quote">Quote Request</div>
                     <p class="whitetext text-center">Please send your artwork in any format for a free no obligation quotation</p>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <input>Name</input>
+                    <form role="form">
+                        <div class="form-group">
+                            <input type="name" class="form-control" id="name" placeholder="Name"></input>
                         </div>
-                    </div>
-                    <div class="row"></div>
-                    <div class="row"></div>
-                    <div class="row"></div>
-                    <div class="row"></div>
-                    <div class="row"></div>
+                        <div class="form-group">
+                            <input type="email" class="form-control" id="email" placeholder="Email Address"></input>
+                        </div>
+                        <div class="form-group">
+                            <input type="phone" class="form-control" id="phone" placeholder="Telephone Number"></input>
+                        </div>
+                        <div class="form-group">
+                            <input type="info" class="form-control" id="info" placeholder="Job Description"></input>
+                        </div>
+                        <div class="form-group text-center">
+                            <button type="submit" class="btn orangeback bold">Upload Logo/Artwork</button>
+                        </div>
+                        <div class="form-group text-center">
+                            <button type="submit" class="btn btn-success bold">Get Quote</button>
+                        </div>
+                    </form>
                 </div>
-                <br/><div class="col-md-12">
+                <br/>
+                <div class="col-md-12">
                     <p class="bold">We also embroider:
                         <br/>
                         <ul class="bold">
@@ -84,6 +96,5 @@
             </div>
         </div>
     </div>
-</body>
 
 </html>
