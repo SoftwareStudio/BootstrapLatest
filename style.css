@@ -16,7 +16,16 @@ body {
     font-size: 34px;
     font-weight:bold;
 }
-.allshirts {
+.tshirt {
+    margin-top: 60px;
+}
+.polo {
+    margin-top: 60px;
+}
+.hoodie {
+    margin-top: 45px;
+}
+.jacket {
     margin-top: 60px;
 }
 .blackdrop {
