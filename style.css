@@ -1,6 +1,6 @@
         body{
                 background-color:#F0B900;
-                font-family: 'Fira Sans';
+                font-family: 'Fira Sans', sans-serif;
         }
         .blackbc{
                 background-color:#000000;
@@ -65,5 +65,5 @@
            left: 884px;
        }
        .font{
-               font-family: 'Pacifico';
+               font-family: 'Pacifico', cursive;
        }
