@@ -53,6 +53,6 @@ body {
 .orange {
     color: #f2ba00;
 }
-.orangeback {
-    background-color: #f2ba00;
+.higher {
+    margin-top: -130px;
 }
