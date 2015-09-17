@@ -13,21 +13,19 @@ body {
 }
 .number {
     margin-top: 50px;
-    font-size: 34px;
+    font-size: 40px;
     font-weight:bold;
 }
-.tshirt {
+.allshirts {
     margin-top: 60px;
 }
 .blackdrop {
-    border-radius: 0px 0px 7px 7px;
-    width: 303px;
+    border-radius: 0px 0px 15px 15px;
 }
 .quote {
     font-family:'Pacifico', cursive;
-    font-size: 27px;
+    font-size: 40px;
     text-align: center;
-    width: 291px;
 }
 .bold {
     font-weight: bold;
